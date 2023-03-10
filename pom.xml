@@ -30,6 +30,7 @@
     </dependencies>
 
     <build>
+        <finalName>cicd_demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
